@@ -12,7 +12,7 @@ from homeassistant.components.fan import (SPEED_OFF, FanEntity, SUPPORT_SET_SPEE
                                           ATTR_SPEED, ATTR_SPEED_LIST, ATTR_OSCILLATING, ATTR_DIRECTION)
 from homeassistant.const import CONF_NAME, CONF_HOST, CONF_TOKEN
 
-REQUIREMENTS = ['python-miio==0.0.8']
+REQUIREMENTS = ['python-miio==0.0.9']
 
 _LOGGER = logging.getLogger(__name__)
 
