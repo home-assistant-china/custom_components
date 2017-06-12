@@ -18,7 +18,7 @@ from homeassistant.const import (CONF_SWITCHES,
 import homeassistant.helpers.config_validation as cv
 from homeassistant.util.dt import utcnow
 
-REQUIREMENTS = ['python-miio==0.0.9']
+REQUIREMENTS = ['python-miio==0.0.11']
 
 _LOGGER = logging.getLogger(__name__)
 
