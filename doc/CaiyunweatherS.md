@@ -1,5 +1,5 @@
 
-彩云天气Shttps://bbs.hassbian.com/thread-784-1-1.html是彩云天气的终极形态
+彩云天气S是彩云天气的终极形态https://bbs.hassbian.com/thread-784-1-1.html
 之前发布了[教程]分钟级天气预报【彩云天气】组件更新Beta2 https://bbs.hassbian.com/thread-686-1-1.html
 存在几个痛点：
 不能按照你的要求更新天气数据，只能通过扫描时间调整获取数据的频率。
